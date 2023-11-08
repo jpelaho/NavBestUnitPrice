@@ -1,4 +1,4 @@
-enum 50020 "AfkSalesSetupUPSuggestMode"
+enum 50020 AfkSalesSetupUPSuggestMode
 {
     Extensible = true;
     AssignmentCompatibility = true;
